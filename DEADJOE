@@ -1,0 +1,30 @@
+
+*** These modified files were found in JOE when it aborted on Wed Mar 27 11:18:37 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/lugo/git/prompt_engineer/.git/MERGE_MSG'
+Merge branch 'main' of https://github.com/lunarring/prompt_engineer
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+solving weird git issu
+*** File '(Unnamed)'
+/home/lugo/git/psychoactive_surface/.git/MERGE_MSG
+/home/lugo/git/psychoactive_surface/.git/MERGE_MSG
+prompt_breeder.py
+/home/lugo/git/psychoactive_surface/.git/MERGE_MSG
+/home/lugo/git/psychoactive_surface/.git/MERGE_MSG
+/home/lugo/git/psychoactive_surface/.git/MERGE_MSG
+* Build Log *
+/home/lugo/git/psychoactive_surface/.git/MERGE_MSG
+* Build Log *
+/home/lugo/git/psychoactive_surface/.git/COMMIT_EDITMSG
+/home/lugo/git/prompt_engineer/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
